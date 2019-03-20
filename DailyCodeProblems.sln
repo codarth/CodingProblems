@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstPositiveMissing", "Fir
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnivalTree", "UnivalTree\UnivalTree.vcxproj", "{1F833687-831D-416A-AF42-8E1788158F8C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "consPair", "consPair\consPair.vcxproj", "{75F375D6-4420-4D2D-BFCA-803429554D18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{1F833687-831D-416A-AF42-8E1788158F8C}.Release|x64.Build.0 = Release|x64
 		{1F833687-831D-416A-AF42-8E1788158F8C}.Release|x86.ActiveCfg = Release|Win32
 		{1F833687-831D-416A-AF42-8E1788158F8C}.Release|x86.Build.0 = Release|Win32
+		{75F375D6-4420-4D2D-BFCA-803429554D18}.Debug|x64.ActiveCfg = Debug|x64
+		{75F375D6-4420-4D2D-BFCA-803429554D18}.Debug|x64.Build.0 = Debug|x64
+		{75F375D6-4420-4D2D-BFCA-803429554D18}.Debug|x86.ActiveCfg = Debug|Win32
+		{75F375D6-4420-4D2D-BFCA-803429554D18}.Debug|x86.Build.0 = Debug|Win32
+		{75F375D6-4420-4D2D-BFCA-803429554D18}.Release|x64.ActiveCfg = Release|x64
+		{75F375D6-4420-4D2D-BFCA-803429554D18}.Release|x64.Build.0 = Release|x64
+		{75F375D6-4420-4D2D-BFCA-803429554D18}.Release|x86.ActiveCfg = Release|Win32
+		{75F375D6-4420-4D2D-BFCA-803429554D18}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
